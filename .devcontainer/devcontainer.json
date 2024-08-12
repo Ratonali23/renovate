@@ -1,4 +1,4 @@
-{
+{git@github.com:renovatebot/renovate.git
   "name": "Renovate",
   "build": {
     "dockerfile": "Dockerfile"
